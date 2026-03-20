@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hi,%20I'm%20Why-Fi👋&fontSize=70&fontColor=4169e1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hi,%20I'm%20Why-Fi👋&fontSize=70&fontColor=87ceeb)
 
 <!--
 **minnnnnnnnnnn/minnnnnnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
