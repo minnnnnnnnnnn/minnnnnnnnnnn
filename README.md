@@ -39,3 +39,14 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minnnnnnnnnnn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minnnnnnnnnnn&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minnnnnnnnnnn&theme=radical)
+<br>
+
+# 📫 Contact & Links
+<div>
+  <a href="mailto:seongmin2053@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.notion.so/Hi-I-m-Why-Fi-1ed121680e1880c0915befbf1d04b889">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  </div>
