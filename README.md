@@ -43,9 +43,17 @@
 
 # 📫 Contact & Links
 <div>
-  <a href="mailto:seongmin2053@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">  </a>
-  <a href="https://www.notion.so/Hi-I-m-Why-Fi-1ed121680e1880c0915befbf1d04b889">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  </a>
-  </div>
+  <p>
+    <strong>Email :</strong> 
+    <a href="mailto:seongmin2053@naver.com">
+      <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" vertical-align="middle">
+    </a>
+  </p>
+
+  <p>
+    <strong>Notion :</strong> 
+    <a href="https://www.notion.so/Hi-I-m-Why-Fi-1ed121680e1880c0915befbf1d04b889">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" vertical-align="middle">
+    </a>
+  </p>
+</div>
