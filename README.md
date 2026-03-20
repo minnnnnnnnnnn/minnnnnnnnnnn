@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Hi,%20I'm%20Why-Fi👋&fontSize=70&fontColor=87ceeb)
 
-<div style="font-size: 38px; font-weight: bold;">🛠 Tech Stack</div>
-<br>
+# 🛠 Tech Stack
 
 #### 💻 Language
 <div>
