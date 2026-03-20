@@ -44,8 +44,7 @@
 # 📫 Contact & Links
 <div>
   <a href="mailto:seongmin2053@naver.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">  </a>
   <a href="https://www.notion.so/Hi-I-m-Why-Fi-1ed121680e1880c0915befbf1d04b889">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
