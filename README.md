@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=f7e268&height=200&section=header&text=Hi,%20I'm%20Why-Fi👋&fontSize=70&fontColor=6578c1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=f7e268&height=200&section=header&text=Hi,%20I'm%20Why-Fi👋&fontSize=70&fontColor=4b64c7)
 
 # 🛠 Tech Stack
 
